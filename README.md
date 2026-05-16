@@ -1,6 +1,7 @@
 𝗟𝗼𝗻𝗱𝗼𝗻_𝗛𝗼𝘂𝘀𝗲-𝗗𝗮𝘁𝗮-𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀-𝗨𝘀𝗶𝗻𝗴-𝗣𝘆𝘁𝗵𝗼𝗻-𝗣𝗮𝗻𝗱𝗮𝘀
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
+
 This project focuses on performing data analysis and data cleaning using Python libraries like Pandas, Seaborn, and Matplotlib in Jupyter Notebook.
 The dataset contains information related to areas, crime records, house prices, and dates. Various data preprocessing and analysis operations were performed to extract meaningful insights from the dataset.
 
